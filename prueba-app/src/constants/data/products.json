@@ -1,0 +1,313 @@
+[
+    {
+        "id": 1,
+        "categoryId": 1,
+        "name": "Remera Mujer Entrenamiento",
+        "description": "Remera Mujer Entrenamiento Running Fit Camiseta Gym",
+        "price": 100,
+        "image": "https://i.ibb.co/Jq0pZBw/Frame-128.png",
+        "currency": {
+            "symbol": "$",
+            "code": "USD",
+            "name": "US Dollar"
+        },
+        "quantity": 1,
+        "tags": [
+            "remera",
+            "rosada",
+            "fit",
+            "deporte"
+        ],
+        "features": [
+            "lycra",
+            "tela fit"
+        ],
+        "rating": 5,
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "categoryId": 1,
+        "name": "Remera Camiseta De Futbol",
+        "description": "Remera Camiseta De Futbol Del Inter De Miami",
+        "price": 150,
+        "image": "https://i.ibb.co/t4kJn7N/Frame-129.png",
+        "currency": {
+            "symbol": "$",
+            "code": "USD",
+            "name": "US Dollar"
+        },
+        "quantity": 1,
+        "tags": [
+            "tela",
+            "camiseta",
+            "sport",
+            "miami",
+            "messi"
+        ],
+        "features": [
+            "lycra",
+            "tela fit"
+        ],
+        "rating": 4.5,
+        "stock": 3
+    },
+    {
+        "id": 3,
+        "categoryId": 1,
+        "name": "Remera Nike The Tee Dangerous",
+        "description": "Remera Nike The Tee Dangerous Dri-fit De Hombre Negra Small",
+        "price": 156,
+        "image": "https://i.ibb.co/s3sHSCZ/Frame-130.png",
+        "currency": {
+            "symbol": "$",
+            "code": "USD",
+            "name": "US Dollar"
+        },
+        "quantity": 1,
+        "tags": [
+            "tela",
+            "sport",
+            "nike"
+            
+        ],
+        "features": [
+            "lycra",
+            "tela fit"
+        ],
+        "rating": 4.5,
+        "stock": 5
+    },
+    {
+        "id": 4,
+        "categoryId": 2,
+        "name": "Pantalón Corte Chino",
+        "description": "Pantalón Corte Chino,gabardina Elastizada. Hombre. Premium",
+        "price": 210,
+        "image": "https://i.ibb.co/BT7dvkK/pantalon1.png",
+        "currency": {
+            "symbol": "$",
+            "code": "USD",
+            "name": "US Dollar"
+        },
+        "quantity": 1,
+        "tags": [
+            "gabardina",
+            "chino",
+            "hombre",
+            "elastizado"
+        ],
+        "features": [
+            "1pantalon de gabardina",
+            "corte chino",
+            "tela elastizada"
+        ],
+        "rating": 5,
+        "stock": 1
+    },
+    {
+        "id": 5,
+        "categoryId": 2,
+        "name": "Pantalon Slim Fit",
+        "description": "Pantalon Slim Fit Nike Original Talle M",
+        "price": 250,
+        "image": "https://i.ibb.co/4KpZ2xQ/pantalon2.png",
+        "currency": {
+            "symbol": "$",
+            "code": "USD",
+            "name": "US Dollar"
+        },
+        "quantity": 1,
+        "tags": [
+            "nike",
+            "fit",
+            "slim"
+        ],
+        "features": [
+            "Pantalon Slim",
+            "Color negro",
+            "Nike Original"
+        ],
+        "rating": 4.5,
+        "stock": 5
+    },
+    {
+        "id": 6,
+        "categoryId": 2,
+        "name": "Pantalon Fila",
+        "description": "Pantalon Fila Tagli Negro Solo Deportes",
+        "price": 135,
+        "image": "https://i.ibb.co/PrFBPss/pantalon3.png",
+        "currency": {
+            "symbol": "$",
+            "code": "USD",
+            "name": "US Dollar"
+        },
+        "quantity": 1,
+        "tags": [
+            "fila",
+            "negro",
+            "deportes"
+        ],
+        "features": [
+            "Pantalon Fila",
+            "Fila Tagli",
+            "Pantalon deportivo"
+        ],
+        "rating": 4,
+        "stock": 2
+    },
+    {
+        "id": 7,
+        "categoryId": 3,
+        "name": "Buzo Burton",
+        "description": "Buzo Burton Pullover Mountain I3bp1mtn201 Hombre",
+        "price": 132,
+        "image": "https://i.ibb.co/GT2mMFs/buzo1.png",
+        "currency": {
+            "symbol": "$",
+            "code": "USD",
+            "name": "US Dollar"
+        },
+        "quantity": 1,
+        "tags": [
+            "burton",
+            "pullover",
+            "mountain",
+            "hombre"
+        ],
+        "features": [
+            "Buzo Burton",
+            "Pullover",
+            "Pantalon Mountain"
+        ],
+        "rating": 4,
+        "stock": 23
+    },
+    {
+        "id": 8,
+        "categoryId": 3,
+        "name": "Buzo Con Capucha",
+        "description": "Buzo Con Capucha Essentials 3 Tiras Felpa Francesa Ic0435 Ad",
+        "price": 210,
+        "image": "https://i.ibb.co/HYQ52GV/buzo2.png",
+        "currency": {
+            "symbol": "$",
+            "code": "USD",
+            "name": "US Dollar"
+        },
+        "quantity": 1,
+        "tags": [
+            "adidas",
+            "capucha",
+            "essentials"
+        ],
+        "features": [
+            "Buzo Adidas",
+            "Capucha"
+        ],
+        "rating": 4,
+        "stock": 22
+    },
+    {
+        "id": 9,
+        "categoryId": 3,
+        "name": "Buzo Urbano adidas",
+        "description": "Buzo Urbano adidas Terrex Logo Hombre En Negro | Dexter",
+        "price": 210,
+        "image": "https://i.ibb.co/fp8X8Tc/buzo3.png",
+        "currency": {
+            "symbol": "$",
+            "code": "USD",
+            "name": "US Dollar"
+        },
+        "quantity": 1,
+        "tags": [
+            "adidas",
+            "urbano",
+            "terrex",
+            "hombre"
+        ],
+        "features": [
+            "Buzo Adidas",
+            "Buzo Urbano"
+        ],
+        "rating": 4,
+        "stock": 11
+    },
+    {
+        "id": 10,
+        "categoryId": 4,
+        "name": "Campera azul Hombre",
+        "description": "Campera azul Hombre Inflable Invierno Con Capucha ",
+        "price": 220,
+        "image": "https://i.ibb.co/gmBN1cm/campera1.png",
+        "currency": {
+            "symbol": "$",
+            "code": "USD",
+            "name": "US Dollar"
+        },
+        "quantity": 1,
+        "tags": [
+            "campera",
+            "azul",
+            "inflable",
+            "capucha"
+        ],
+        "features": [
+            "Campera Azul",
+            "Campera Inflable con Capucha"
+        ],
+        "rating": 4,
+        "stock": 6
+    },
+    {
+        "id": 11,
+        "categoryId": 4,
+        "name": "Campera Capucha",
+        "description": "Campera Capucha Gdo 24/7 Camperita Hoodie Hombre Premium",
+        "price": 260,
+        "image": "https://i.ibb.co/9sVsrZp/campera2.png",
+        "currency": {
+            "symbol": "$",
+            "code": "USD",
+            "name": "US Dollar"
+        },
+        "quantity": 1,
+        "tags": [
+            "campera",
+            "ahoodie",
+            "hombre",
+            "capucha"
+        ],
+        "features": [
+            "Campera hombre",
+            "Campera hoodie premium"
+        ],
+        "rating": 4,
+        "stock": 20
+    },
+    {
+        "id": 12,
+        "categoryId": 4,
+        "name": "Campera Neoprene",
+        "description": "Campera Neoprene Sin Logo",
+        "price": 220,
+        "image": "https://i.ibb.co/vPGTjJJ/campera3.png",
+        "currency": {
+            "symbol": "$",
+            "code": "USD",
+            "name": "US Dollar"
+        },
+        "quantity": 1,
+        "tags": [
+            "neoprene",
+            "logo"
+        ],
+        "features": [
+            "Campera Neoprene"
+        ],
+        "rating": 4,
+        "stock": 10
+    }
+]
